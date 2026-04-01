@@ -1,0 +1,22 @@
+[2026-03-29T20:02:16Z] === rebuild_front_assets start ===
+[2026-03-29T20:02:16Z] build_br_slug exit=0 ok=True
+目录文件: /Users/Zhuanz/nba-crawler/output/player_directory_2025_26.json
+已写入: /Users/Zhuanz/nba-pc-analytics/br-slug-to-nba-person-id.json（546 条）
+未匹配（27 条），头像将走前端占位。示例:
+  jacksgg01  GG Jackson II
+  reeseju01  Julian Reese
+  hinsobl01  Blake Hinson
+  burtoty01  Tyler Burton
+  greenaj01  A.J. Green
+  richmka01  Kadary Richmond
+  hollaro01  Ron Holland
+  cryerlj01  LJ Cryer
+  johnsch06  Chaney Johnson
+  loverla01  Lawson Lovering
+  smithma02  Malachi Smith
+  mashaja01  Jahmai Mashack
+  … 共 27 条
+[2026-03-29T20:05:49Z] player_zh exit=0 ok=True
+player-zh: 538 / 573 names to translate
+player-zh: wrote /Users/Zhuanz/nba-pc-analytics/player-zh.json identity_en=0
+[2026-03-29T20:05:49Z] === done slug_ok=True zh_ok=True ===
